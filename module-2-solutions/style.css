@@ -1,0 +1,168 @@
+<style>
+
+
+
+
+
+.box{
+	padding-left: 0%;
+	padding-right: 0%;
+	padding-top: 0%; 
+	border: 3px solid black;
+	margin: 10%;
+	box-sizing: border-box;
+
+}
+
+
+/* "our menu" style- p1 */
+
+	#p1{
+		
+		font-size: 175%;
+		text-align: center;
+		font-family: arial;
+		
+	}
+
+	#s{
+		background-color: gray;
+		padding:2%;
+		width:90%;
+        border:3px solid black;
+
+	}
+
+
+
+    #h1{
+
+
+    	float:right;
+        font-family: helvetica; 	
+    	font-size: 125%;
+    	
+    	margin-top:0px;
+    	margin:-3%;
+    	
+    	
+
+    	position: relative;
+
+        width: 75%;
+        text-align: center;
+    	padding-right: 1%;
+        padding-left: 1%;
+    	
+    	background-color: pink;
+    	
+    	border:3px solid black;
+
+    }
+
+
+#h2{
+
+
+    	float:right;
+
+        font-family: helvetica; 	
+    	font-size: 125%;
+    	color:white;
+
+    	margin-top:0px;
+    	margin:-3%;
+    	
+    	
+
+    	position: relative;
+
+        width: 75%;
+        text-align: center;
+    	padding-right: 1%;
+        padding-left: 1%;
+        
+    	
+    	background-color: maroon;
+    	
+    	border:3px solid black;
+
+    }
+
+    #h3{
+
+
+    float:right;
+        font-family: helvetica; 	
+    	font-size: 125%;
+    	
+    	margin-top:0px;
+    	margin:-3%;
+    	
+    	
+    	
+
+    	position: relative;
+
+        width: 75%;
+        text-align: center;
+    	padding-right: 1%;
+        padding-left: 1%;
+
+    	
+    	background-color: yellow;
+    	
+    	border:3px solid black;
+
+    }
+
+
+
+
+
+.row{
+	width: 100%;
+}
+
+	@media (min-width: 992px){
+		.col-lg-4{
+			float:left;
+
+			width: 33%;
+		
+			}
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .col-md-6,.col-md-12 {
+    float: left;
+  }
+  .col-md-6 {
+    width: 50%;
+  }
+  .col-md-12 {
+    margin-left: -10px;
+    width: 100%;
+  }
+
+
+	@media(min-width:0px) and (max-width: 767px){
+	.col-sm-12 {float:left;
+    width: 100%;
+  }
+
+
+
+
+#clear{
+	clear:left;
+}
+
+.row{
+	width: 100%;
+}
+
+
+</style>
