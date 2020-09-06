@@ -1,0 +1,114 @@
+
+
+<style>
+
+
+.float{
+    float:right;
+}
+
+#header-nav{                         /* OKAY */
+    background-color: #000666;
+    border-radius: 0;
+    border: 0;
+    
+}
+
+
+#header-nav button {
+    margin-top: 22px;
+    
+
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fce29e;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+
+.navbar-brand{
+    padding-top: 25px;
+
+}
+
+#nav-list{                                 /* OKAY */
+    margin-top: 10px;
+    background-color: white;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+
+}
+
+
+
+  #collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+
+  }
+ 
+
+/* FOR Food,LCC BACKGROUND */
+
+
+
+ 
+
+#marg{
+    margin-top: 50px;
+    color: #d16666;
+    text-align: center;
+ 
+}
+
+
+
+#s{
+    background-color: #909590;
+    margin-left:50px;
+    margin-right: 50px;
+}
+
+
+.section-style{
+    font-family: 'Grandstander', cursive;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #600047;
+
+}
+
+
+.box{
+    border box-sizing: border-box;
+    float:right;
+
+
+}
+
+#clear{
+    clear:right;
+}
+
+
+
+
+
+</style>
+
+
+
+
+
+
